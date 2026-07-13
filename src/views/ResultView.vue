@@ -49,7 +49,7 @@
             /></el-icon>
             <el-icon v-else class="icon-wrong"><CircleCloseFilled /></el-icon>
           </div>
-          <div class="answer-row" v-if="!item.isCorrect">
+          <div class="answer-row">
             <span class="label">正确答案：</span>
             <span class="text-correct">{{
               formatAnswer(item.correctAnswer, item.type)
@@ -127,9 +127,10 @@ function typeLabel(type) {
 function formatAnswer(answer, type) {
   if (answer === undefined || answer === null || answer === "") return "未作答";
   if (type === "multiple") {
-    if (Array.isArray(answer)) return answer.join("");
+    if (Array.isArray(answer)) return answer.length > 0 ? answer.join("、") : "未作答";
     return String(answer);
   }
+  // 单选题返回 "A"、"B" 等字母，判断题返回 "正确"/"错误"
   return String(answer);
 }
 </script>
