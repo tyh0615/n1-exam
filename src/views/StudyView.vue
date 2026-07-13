@@ -129,8 +129,9 @@ function rebuildAnswers() {
     if (q.type === "multiple") {
       correctAnswers[q.id] = q.answer.split("");
     } else if (q.type === "judge") {
-      // 判断题选项是 ["正确", "错误"]，answer 也是 "正确"/"错误"
-      correctAnswers[q.id] = q.answer;
+      // 判断题选项是 ["正确", "错误"]，用 indexOf 映射到字母键 "A" 或 "B"
+      const idx = q.options.indexOf(q.answer);
+      correctAnswers[q.id] = idx >= 0 ? ["A", "B", "C", "D", "E", "F"][idx] : q.answer;
     } else {
       correctAnswers[q.id] = q.answer;
     }
