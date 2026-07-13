@@ -223,12 +223,13 @@
         class="start-btn"
         @click="startExam"
       >
-        开始考试
+        开始练习 / 考试
       </el-button>
       <el-button
         size="large"
         class="mistake-btn"
         @click="$router.push('/mistakes')"
+        style="margin-left: 0"
       >
         错题本
         <el-badge v-if="mistakeCount > 0" :value="mistakeCount" class="badge" />

@@ -128,6 +128,9 @@ function rebuildAnswers() {
   for (const q of questions.value) {
     if (q.type === "multiple") {
       correctAnswers[q.id] = q.answer.split("");
+    } else if (q.type === "judge") {
+      // 判断题选项是 ["正确", "错误"]，answer 也是 "正确"/"错误"
+      correctAnswers[q.id] = q.answer;
     } else {
       correctAnswers[q.id] = q.answer;
     }
