@@ -14,7 +14,7 @@
         :class="{
           selected: userAnswer === optionKey(i),
           correct: showCorrect && optionKey(i) === question.answer,
-          wrong:
+          correct:
             showCorrect &&
             userAnswer === optionKey(i) &&
             optionKey(i) !== question.answer,
@@ -34,8 +34,8 @@
             userAnswer === optionKey(i) &&
             optionKey(i) !== question.answer
           "
-          class="opt-icon wrong"
-          ><CircleCloseFilled
+          class="opt-icon right"
+          ><CircleCheckFilled
         /></el-icon>
       </div>
     </div>
