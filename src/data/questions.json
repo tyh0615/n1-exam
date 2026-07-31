@@ -1,93 +1,1013 @@
 {
   "single": [
-    { "id": 1, "type": "single", "question": "叉车的工作装置由（ ）两部分组成。", "options": ["A. 驱动桥和转向桥", "B. 吊杆和吊钩", "C. 起重机构和液压驱动系统"], "answer": "C", "score": 1 },
-    { "id": 2, "type": "single", "question": "叉车载物行驶时，货叉离地间隙应保持（ ）。", "options": ["A. 100—200mm", "B. 200—300mm", "C. 300—400mm"], "answer": "C", "score": 1 },
-    { "id": 3, "type": "single", "question": "叉车载货运行时，货叉必须（ ）。", "options": ["A. 前倾", "B. 垂直", "C. 后倾"], "answer": "C", "score": 1 },
-    { "id": 4, "type": "single", "question": "叉车在厂区内行驶速度一般不得超过（ ）km/h。", "options": ["A. 5", "B. 10", "C. 15"], "answer": "B", "score": 1 },
-    { "id": 5, "type": "single", "question": "平衡重式叉车的平衡块是为了保持（ ）。", "options": ["A. 叉车直线行驶", "B. 横向稳定性", "C. 纵向稳定性"], "answer": "C", "score": 1 },
-    { "id": 6, "type": "single", "question": "叉车液压系统的工作压力由（ ）决定。", "options": ["A. 油泵", "B. 溢流阀", "C. 油管"], "answer": "B", "score": 1 },
-    { "id": 7, "type": "single", "question": "当叉车在满载行驶时，由于货物重心升高，会使（ ）。", "options": ["A. 纵向稳定性增加", "B. 横向稳定性增加", "C. 纵向和横向稳定性均变差"], "answer": "C", "score": 1 },
-    { "id": 8, "type": "single", "question": "发动机排气冒蓝烟，可能是因为（ ）。", "options": ["A. 负荷过重", "B. 进气不畅", "C. 机油油面过高"], "answer": "C", "score": 1 },
-    { "id": 9, "type": "single", "question": "柴油发动机气缸内吸入的是（ ）。", "options": ["A. 可燃混合气", "B. 雾化柴油", "C. 纯净空气"], "answer": "C", "score": 1 },
-    { "id": 10, "type": "single", "question": "四冲程发动机一个工作循环中，曲轴转了（ ）圈。", "options": ["A. 一", "B. 二", "C. 四"], "answer": "B", "score": 1 },
-    { "id": 11, "type": "single", "question": "场车仪表中的里程表记录的行驶里程是场车（ ）的重要依据之一。", "options": ["A. 定期保养", "B. 改装", "C. 大修"], "answer": "A", "score": 1 },
-    { "id": 12, "type": "single", "question": "蓄电池车旋合电锁后，电流表无反应，指示灯不亮，故障原因可能是（ ）。", "options": ["A. 电动机损坏", "B. 主晶闸管损坏", "C. 电锁接触不良、熔断器烧毁"], "answer": "C", "score": 1 },
-    { "id": 13, "type": "single", "question": "汽油的标号（如93号）表示其（ ）。", "options": ["A. 辛烷值", "B. 十六烷值", "C. 凝点"], "answer": "A", "score": 1 },
-    { "id": 14, "type": "single", "question": "《中华人民共和国特种设备安全法》规定，特种设备使用单位应在投入使用前或投入使用后（ ）日内办理使用登记。", "options": ["A. 15", "B. 30", "C. 60"], "answer": "B", "score": 1 },
-    { "id": 15, "type": "single", "question": "使用登记标志应当置于该特种设备的（ ）位置。", "options": ["A. 隐蔽", "B. 司机室", "C. 显著"], "answer": "C", "score": 1 },
-    { "id": 16, "type": "single", "question": "《场（厂）内专用机动车辆安全技术监察规程》规定，场车的日常维护保养和检查记录至少保存（ ）年。", "options": ["A. 1", "B. 3", "C. 5"], "answer": "C", "score": 1 },
-    { "id": 17, "type": "single", "question": "特种设备作业人员证有效期满前（ ）个月应申请复审。", "options": ["A. 1", "B. 3", "C. 6"], "answer": "A", "score": 1 },
-    { "id": 18, "type": "single", "question": "场（厂）内专用机动车辆的定期检验周期是（ ）。", "options": ["A. 1年", "B. 2年", "C. 3年"], "answer": "A", "score": 1 },
-    { "id": 19, "type": "single", "question": "在作业场所安全标志中，红色表示（ ）。", "options": ["A. 提醒注意", "B. 指令遵守", "C. 禁止和阻止"], "answer": "C", "score": 1 },
-    { "id": 20, "type": "single", "question": "倒车时，应先（ ），选定进退目标，并注意前后有无来车及行人。", "options": ["A. 察看周围道路环境", "B. 挂挡、打开倒车灯", "C. 看清停靠位置"], "answer": "A", "score": 1 },
-    { "id": 21, "type": "single", "question": "距离加油站、消防栓（ ）米以内不得停放场车。", "options": ["A. 20", "B. 30", "C. 40"], "answer": "A", "score": 1 },
-    { "id": 22, "type": "single", "question": "叉车作业时应靠右行驶，前后车距应不小于（ ）米。", "options": ["A. 2", "B. 3", "C. 5"], "answer": "C", "score": 1 },
-    { "id": 23, "type": "single", "question": "CPD30表示的是（ ）。", "options": ["A. 3吨平衡重式蓄电池叉车", "B. 3吨平衡重式柴油叉车", "C. 3吨前移式叉车"], "answer": "A", "score": 1 },
-    { "id": 24, "type": "single", "question": "发动机属于车辆的（ ）。", "options": ["A. 动力部分", "B. 工作部分", "C. 传动部分"], "answer": "A", "score": 1 },
-    { "id": 25, "type": "single", "question": "下列哪种物质是助燃物质？（ ）", "options": ["A. 空气、氧气", "B. 汽油、柴油", "C. 木材、棉纱"], "answer": "A", "score": 1 },
-    { "id": 26, "type": "single", "question": "可燃物质在没有外部火源条件下能自动引燃的最低温度称为（ ）。", "options": ["A. 燃点", "B. 闪点", "C. 自燃点"], "answer": "C", "score": 1 },
-    { "id": 27, "type": "single", "question": "停车后，司机离车时应（ ）。", "options": ["A. 拉紧驻车制动、切断电路、锁好车门", "B. 挂空挡即可", "C. 熄火即可"], "answer": "A", "score": 1 },
-    { "id": 28, "type": "single", "question": "车辆转弯时，影响离心力大小的主要因素是（ ）。", "options": ["A. 车速和车辆重量", "B. 车辆高度", "C. 路面宽度"], "answer": "A", "score": 1 },
-    { "id": 29, "type": "single", "question": "液压系统高压软管的使用年限是（ ）。", "options": ["A. 4年", "B. 3年", "C. 2年"], "answer": "C", "score": 1 },
-    { "id": 30, "type": "single", "question": "下列属于流量控制阀的是（ ）。", "options": ["A. 节流阀", "B. 分流阀", "C. 溢流阀"], "answer": "A", "score": 1 },
-    { "id": 31, "type": "single", "question": "叉车起步前，应观察四周，确认安全后先（ ）后起步。", "options": ["A. 鸣笛", "B. 打转向灯", "C. 拉手刹"], "answer": "A", "score": 1 },
-    { "id": 32, "type": "single", "question": "当缓慢抬起离合器踏板时，所传递的扭矩逐渐（ ）。", "options": ["A. 减小", "B. 增大", "C. 不变"], "answer": "B", "score": 1 },
-    { "id": 33, "type": "single", "question": "场车紧急制动时，司机可将制动踏板踩到底，必要时腾出右手（ ）。", "options": ["A. 转动转向盘", "B. 拉驻车制动装置", "C. 按喇叭"], "answer": "B", "score": 1 },
-    { "id": 34, "type": "single", "question": "对于机械传动的场车，起步时应将变速杆挂入（ ）。", "options": ["A. 一挡", "B. 二挡", "C. 三挡"], "answer": "A", "score": 1 },
-    { "id": 35, "type": "single", "question": "《特种设备安全监察条例》所称的县级以上地方特种设备安全监督管理部门是指（ ）。", "options": ["A. 安全生产监督管理部门", "B. 质量技术监督部门（市场监督部门）", "C. 交通部门"], "answer": "B", "score": 1 },
-    { "id": 36, "type": "single", "question": "人的不安全行为不包括以下哪项？（ ）", "options": ["A. 冒险进入危险场所", "B. 人为使安全装置失效", "C. 穿戴劳动防护用品"], "answer": "C", "score": 1 },
-    { "id": 37, "type": "single", "question": "叉车的货叉两叉尖应该（ ）。", "options": ["A. 一样高", "B. 左叉高", "C. 右叉高"], "answer": "A", "score": 1 },
-    { "id": 38, "type": "single", "question": "持有作业项目为N1的特种设备作业人员证，可以操作（ ）。", "options": ["A. 叉车", "B. 观光车", "C. 起重机"], "answer": "A", "score": 1 },
-    { "id": 39, "type": "single", "question": "事故发生后，首先应抢救的是（ ）。", "options": ["A. 国家财产", "B. 伤员", "C. 设备"], "answer": "B", "score": 1 },
-    { "id": 40, "type": "single", "question": "会车时做到「礼让三先」，即（ ）。", "options": ["A. 先让、先慢、先停", "B. 先快、先抢、先过", "C. 先鸣笛、先加速、先靠边"], "answer": "A", "score": 1 }
+    {
+      "id": 1,
+      "type": "single",
+      "question": "叉车的工作装置由（ ）两部分组成。",
+      "options": [
+        "A. 驱动桥和转向桥",
+        "B. 吊杆和吊钩",
+        "C. 起重机构和液压驱动系统"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "question": "叉车载物行驶时，货叉离地间隙应保持（ ）。",
+      "options": [
+        "A. 100—200mm",
+        "B. 200—300mm",
+        "C. 300—400mm"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "question": "叉车载货运行时，货叉必须（ ）。",
+      "options": [
+        "A. 前倾",
+        "B. 垂直",
+        "C. 后倾"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "question": "叉车在厂区内行驶速度一般不得超过（ ）km/h。",
+      "options": [
+        "A. 5",
+        "B. 10",
+        "C. 15"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "question": "平衡重式叉车的平衡块是为了保持（ ）。",
+      "options": [
+        "A. 叉车直线行驶",
+        "B. 横向稳定性",
+        "C. 纵向稳定性"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "question": "叉车液压系统的工作压力由（ ）决定。",
+      "options": [
+        "A. 油泵",
+        "B. 溢流阀",
+        "C. 油管"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "question": "当叉车在满载行驶时，由于货物重心升高，会使（ ）。",
+      "options": [
+        "A. 纵向稳定性增加",
+        "B. 横向稳定性增加",
+        "C. 纵向和横向稳定性均变差"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "question": "发动机排气冒蓝烟，可能是因为（ ）。",
+      "options": [
+        "A. 负荷过重",
+        "B. 进气不畅",
+        "C. 机油油面过高"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "question": "柴油发动机气缸内吸入的是（ ）。",
+      "options": [
+        "A. 可燃混合气",
+        "B. 雾化柴油",
+        "C. 纯净空气"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "question": "四冲程发动机一个工作循环中，曲轴转了（ ）圈。",
+      "options": [
+        "A. 一",
+        "B. 二",
+        "C. 四"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "question": "场车仪表中的里程表记录的行驶里程是场车（ ）的重要依据之一。",
+      "options": [
+        "A. 定期保养",
+        "B. 改装",
+        "C. 大修"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "question": "蓄电池车旋合电锁后，电流表无反应，指示灯不亮，故障原因可能是（ ）。",
+      "options": [
+        "A. 电动机损坏",
+        "B. 主晶闸管损坏",
+        "C. 电锁接触不良、熔断器烧毁"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "question": "汽油的标号（如93号）表示其（ ）。",
+      "options": [
+        "A. 辛烷值",
+        "B. 十六烷值",
+        "C. 凝点"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "question": "《中华人民共和国特种设备安全法》规定，特种设备使用单位应在投入使用前或投入使用后（ ）日内办理使用登记。",
+      "options": [
+        "A. 15",
+        "B. 30",
+        "C. 60"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "question": "使用登记标志应当置于该特种设备的（ ）位置。",
+      "options": [
+        "A. 隐蔽",
+        "B. 司机室",
+        "C. 显著"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "question": "《场（厂）内专用机动车辆安全技术监察规程》规定，场车的日常维护保养和检查记录至少保存（ ）年。",
+      "options": [
+        "A. 1",
+        "B. 3",
+        "C. 5"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "question": "特种设备作业人员证有效期满前（ ）个月应申请复审。",
+      "options": [
+        "A. 1",
+        "B. 3",
+        "C. 6"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "question": "场（厂）内专用机动车辆的定期检验周期是（ ）。",
+      "options": [
+        "A. 1年",
+        "B. 2年",
+        "C. 3年"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "question": "在作业场所安全标志中，红色表示（ ）。",
+      "options": [
+        "A. 提醒注意",
+        "B. 指令遵守",
+        "C. 禁止和阻止"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "question": "倒车时，应先（ ），选定进退目标，并注意前后有无来车及行人。",
+      "options": [
+        "A. 察看周围道路环境",
+        "B. 挂挡、打开倒车灯",
+        "C. 看清停靠位置"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "question": "距离加油站、消防栓（ ）米以内不得停放场车。",
+      "options": [
+        "A. 20",
+        "B. 30",
+        "C. 40"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "question": "叉车作业时应靠右行驶，前后车距应不小于（ ）米。",
+      "options": [
+        "A. 2",
+        "B. 3",
+        "C. 5"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "question": "CPD30表示的是（ ）。",
+      "options": [
+        "A. 3吨平衡重式蓄电池叉车",
+        "B. 3吨平衡重式柴油叉车",
+        "C. 3吨前移式叉车"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "question": "发动机属于车辆的（ ）。",
+      "options": [
+        "A. 动力部分",
+        "B. 工作部分",
+        "C. 传动部分"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "question": "下列哪种物质是助燃物质？（ ）",
+      "options": [
+        "A. 空气、氧气",
+        "B. 汽油、柴油",
+        "C. 木材、棉纱"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "question": "可燃物质在没有外部火源条件下能自动引燃的最低温度称为（ ）。",
+      "options": [
+        "A. 燃点",
+        "B. 闪点",
+        "C. 自燃点"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "question": "停车后，司机离车时应（ ）。",
+      "options": [
+        "A. 拉紧驻车制动、切断电路、锁好车门",
+        "B. 挂空挡即可",
+        "C. 熄火即可"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "question": "车辆转弯时，影响离心力大小的主要因素是（ ）。",
+      "options": [
+        "A. 车速和车辆重量",
+        "B. 车辆高度",
+        "C. 路面宽度"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "question": "液压系统高压软管的使用年限是（ ）。",
+      "options": [
+        "A. 4年",
+        "B. 3年",
+        "C. 2年"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "question": "下列属于流量控制阀的是（ ）。",
+      "options": [
+        "A. 节流阀",
+        "B. 分流阀",
+        "C. 溢流阀"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "question": "叉车起步前，应观察四周，确认安全后先（ ）后起步。",
+      "options": [
+        "A. 鸣笛",
+        "B. 打转向灯",
+        "C. 拉手刹"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "question": "当缓慢抬起离合器踏板时，所传递的扭矩逐渐（ ）。",
+      "options": [
+        "A. 减小",
+        "B. 增大",
+        "C. 不变"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "question": "场车紧急制动时，司机可将制动踏板踩到底，必要时腾出右手（ ）。",
+      "options": [
+        "A. 转动转向盘",
+        "B. 拉驻车制动装置",
+        "C. 按喇叭"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "question": "对于机械传动的场车，起步时应将变速杆挂入（ ）。",
+      "options": [
+        "A. 一挡",
+        "B. 二挡",
+        "C. 三挡"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "question": "《特种设备安全监察条例》所称的县级以上地方特种设备安全监督管理部门是指（ ）。",
+      "options": [
+        "A. 安全生产监督管理部门",
+        "B. 质量技术监督部门（市场监督部门）",
+        "C. 交通部门"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "question": "人的不安全行为不包括以下哪项？（ ）",
+      "options": [
+        "A. 冒险进入危险场所",
+        "B. 人为使安全装置失效",
+        "C. 穿戴劳动防护用品"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "question": "叉车的货叉两叉尖应该（ ）。",
+      "options": [
+        "A. 一样高",
+        "B. 左叉高",
+        "C. 右叉高"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "question": "持有作业项目为N1的特种设备作业人员证，可以操作（ ）。",
+      "options": [
+        "A. 叉车",
+        "B. 观光车",
+        "C. 起重机"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "question": "事故发生后，首先应抢救的是（ ）。",
+      "options": [
+        "A. 国家财产",
+        "B. 伤员",
+        "C. 设备"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "question": "会车时做到「礼让三先」，即（ ）。",
+      "options": [
+        "A. 先让、先慢、先停",
+        "B. 先快、先抢、先过",
+        "C. 先鸣笛、先加速、先靠边"
+      ],
+      "answer": "A",
+      "score": 1
+    }
   ],
   "multiple": [
-    { "id": 41, "type": "multiple", "question": "内燃叉车按燃料种类分为（ ）。", "options": ["A. 汽油叉车", "B. 柴油叉车", "C. 液化气叉车", "D. 电动叉车"], "answer": "ABC", "score": 1 },
-    { "id": 42, "type": "multiple", "question": "叉车运行性能包括（ ）。", "options": ["A. 牵引性能", "B. 门架倾角", "C. 稳定性", "D. 制动性能"], "answer": "AD", "score": 1 },
-    { "id": 43, "type": "multiple", "question": "特种设备作业人员应当遵守的规定包括（ ）。", "options": ["A. 作业时随身携带证件", "B. 自觉接受用人单位的安全管理", "C. 自觉接受质量技术监督部门的监督检查", "D. 积极参加特种设备安全教育和培训"], "answer": "ABCD", "score": 1 },
-    { "id": 44, "type": "multiple", "question": "叉车的液压装置包括（ ）。", "options": ["A. 倾斜油缸", "B. 举升油缸", "C. 油泵", "D. 分流阀"], "answer": "ABCD", "score": 1 },
-    { "id": 45, "type": "multiple", "question": "灭火的基本方法包括（ ）。", "options": ["A. 冷却法", "B. 隔离法", "C. 窒息法", "D. 中断化学反应法"], "answer": "ABCD", "score": 1 },
-    { "id": 46, "type": "multiple", "question": "编制应急预案时应遵循的原则有（ ）。", "options": ["A. 针对性", "B. 科学性", "C. 可操作性", "D. 完整性"], "answer": "ABCD", "score": 1 },
-    { "id": 47, "type": "multiple", "question": "铅蓄电池主要由（ ）组成。", "options": ["A. 电解液", "B. 正极板", "C. 负极板", "D. 单格电池"], "answer": "ABC", "score": 1 },
-    { "id": 48, "type": "multiple", "question": "车辆制动器的作用包括（ ）。", "options": ["A. 制约车辆的行驶运动", "B. 减速", "C. 停车", "D. 保证安全"], "answer": "ABCD", "score": 1 },
-    { "id": 49, "type": "multiple", "question": "事故当事人应当承担的责任分为（ ）。", "options": ["A. 全部责任", "B. 主要责任", "C. 次要责任", "D. 同等责任"], "answer": "ABCD", "score": 1 },
-    { "id": 50, "type": "multiple", "question": "水冷式发动机冷却系统通常由（ ）等组成。", "options": ["A. 水泵", "B. 风扇", "C. 水箱", "D. 节温器"], "answer": "ABCD", "score": 1 },
-    { "id": 51, "type": "multiple", "question": "离合器主要由（ ）和操纵机构组成。", "options": ["A. 主动部分", "B. 从动部分", "C. 压紧装置", "D. 分离机构"], "answer": "ABCD", "score": 1 },
-    { "id": 52, "type": "multiple", "question": "叉车掉下站台坡边的主要原因有（ ）。", "options": ["A. 靠边行走，倒车未朝后看", "B. 躲避行人时车速太快", "C. 转向时速度太高", "D. 地面障碍物碰转向轮"], "answer": "ABCD", "score": 1 },
-    { "id": 53, "type": "multiple", "question": "油泵噪音过大可能的故障原因有（ ）。", "options": ["A. 滤网堵塞产生空穴", "B. 油管接头松动吸入空气", "C. 液压油粘度太高", "D. 液压油中有气泡"], "answer": "ABCD", "score": 1 },
-    { "id": 54, "type": "multiple", "question": "场（厂）内道路基本要求中，平面布置应合理，适应工厂（ ）等要求。", "options": ["A. 生产", "B. 运输", "C. 防震", "D. 防尘"], "answer": "ABCD", "score": 1 },
-    { "id": 55, "type": "multiple", "question": "作为一名有职业道德的叉车司机，应当做到（ ）。", "options": ["A. 忠于职守，高度负责", "B. 遵章守法，安全行车", "C. 多跑多干，连续作战", "D. 钻研技术，规范操作"], "answer": "ABD", "score": 1 }
+    {
+      "id": 41,
+      "type": "multiple",
+      "question": "内燃叉车按燃料种类分为（ ）。",
+      "options": [
+        "A. 汽油叉车",
+        "B. 柴油叉车",
+        "C. 液化气叉车",
+        "D. 电动叉车"
+      ],
+      "answer": "ABC",
+      "score": 1
+    },
+    {
+      "id": 42,
+      "type": "multiple",
+      "question": "叉车运行性能包括（ ）。",
+      "options": [
+        "A. 牵引性能",
+        "B. 门架倾角",
+        "C. 稳定性",
+        "D. 制动性能"
+      ],
+      "answer": "AD",
+      "score": 1
+    },
+    {
+      "id": 43,
+      "type": "multiple",
+      "question": "特种设备作业人员应当遵守的规定包括（ ）。",
+      "options": [
+        "A. 作业时随身携带证件",
+        "B. 自觉接受用人单位的安全管理",
+        "C. 自觉接受质量技术监督部门的监督检查",
+        "D. 积极参加特种设备安全教育和培训"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 44,
+      "type": "multiple",
+      "question": "叉车的液压装置包括（ ）。",
+      "options": [
+        "A. 倾斜油缸",
+        "B. 举升油缸",
+        "C. 油泵",
+        "D. 分流阀"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 45,
+      "type": "multiple",
+      "question": "灭火的基本方法包括（ ）。",
+      "options": [
+        "A. 冷却法",
+        "B. 隔离法",
+        "C. 窒息法",
+        "D. 中断化学反应法"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 46,
+      "type": "multiple",
+      "question": "编制应急预案时应遵循的原则有（ ）。",
+      "options": [
+        "A. 针对性",
+        "B. 科学性",
+        "C. 可操作性",
+        "D. 完整性"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 47,
+      "type": "multiple",
+      "question": "铅蓄电池主要由（ ）组成。",
+      "options": [
+        "A. 电解液",
+        "B. 正极板",
+        "C. 负极板",
+        "D. 单格电池"
+      ],
+      "answer": "ABC",
+      "score": 1
+    },
+    {
+      "id": 48,
+      "type": "multiple",
+      "question": "车辆制动器的作用包括（ ）。",
+      "options": [
+        "A. 制约车辆的行驶运动",
+        "B. 减速",
+        "C. 停车",
+        "D. 保证安全"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 49,
+      "type": "multiple",
+      "question": "事故当事人应当承担的责任分为（ ）。",
+      "options": [
+        "A. 全部责任",
+        "B. 主要责任",
+        "C. 次要责任",
+        "D. 同等责任"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 50,
+      "type": "multiple",
+      "question": "水冷式发动机冷却系统通常由（ ）等组成。",
+      "options": [
+        "A. 水泵",
+        "B. 风扇",
+        "C. 水箱",
+        "D. 节温器"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 51,
+      "type": "multiple",
+      "question": "离合器主要由（ ）和操纵机构组成。",
+      "options": [
+        "A. 主动部分",
+        "B. 从动部分",
+        "C. 压紧装置",
+        "D. 分离机构"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 52,
+      "type": "multiple",
+      "question": "叉车掉下站台坡边的主要原因有（ ）。",
+      "options": [
+        "A. 靠边行走，倒车未朝后看",
+        "B. 躲避行人时车速太快",
+        "C. 转向时速度太高",
+        "D. 地面障碍物碰转向轮"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 53,
+      "type": "multiple",
+      "question": "油泵噪音过大可能的故障原因有（ ）。",
+      "options": [
+        "A. 滤网堵塞产生空穴",
+        "B. 油管接头松动吸入空气",
+        "C. 液压油粘度太高",
+        "D. 液压油中有气泡"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 54,
+      "type": "multiple",
+      "question": "场（厂）内道路基本要求中，平面布置应合理，适应工厂（ ）等要求。",
+      "options": [
+        "A. 生产",
+        "B. 运输",
+        "C. 防震",
+        "D. 防尘"
+      ],
+      "answer": "ABCD",
+      "score": 1
+    },
+    {
+      "id": 55,
+      "type": "multiple",
+      "question": "作为一名有职业道德的叉车司机，应当做到（ ）。",
+      "options": [
+        "A. 忠于职守，高度负责",
+        "B. 遵章守法，安全行车",
+        "C. 多跑多干，连续作战",
+        "D. 钻研技术，规范操作"
+      ],
+      "answer": "ABD",
+      "score": 1
+    }
   ],
   "judge": [
-    { "id": 56, "type": "judge", "question": "叉车货叉的叉根角不得大于93度，厚度磨损不得低于原尺寸的90%。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 57, "type": "judge", "question": "《场（厂）内专用机动车辆安全技术监察规程》规定，场车的铭牌、安全警示标志应当置于场车的显著位置。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 58, "type": "judge", "question": "特种设备办理使用登记后，即使未经定期检验或检验不合格，仍可继续使用。", "options": ["正确", "错误"], "answer": "错误", "score": 1 },
-    { "id": 59, "type": "judge", "question": "使用未经检验合格的场（厂）内专用机动车辆属于一般违章。", "options": ["正确", "错误"], "answer": "错误", "score": 1 },
-    { "id": 60, "type": "judge", "question": "前移式叉车是指带有外伸支腿，通过门架或滑架移动进行搬运的堆垛用起升车辆。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 61, "type": "judge", "question": "会车时要注意保持足够的安全横向间距，做到「礼让三先」。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 62, "type": "judge", "question": "停车应停在不妨碍交通的地点，司机离车时应拉紧驻车制动、切断电路、锁好车门。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 63, "type": "judge", "question": "充电时蓄电池内部产生大量气泡，电解液呈「沸腾」状态，表明可能已充足电。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 64, "type": "judge", "question": "出车前、行驶中、收车后的「三勤」是指勤清洁、勤检查、勤调整。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 65, "type": "judge", "question": "特种设备作业人员证对场（厂）内专用机动车辆司机不适用。", "options": ["正确", "错误"], "answer": "错误", "score": 1 },
-    { "id": 66, "type": "judge", "question": "在作业场所安全标志中，蓝色表示指令和必须遵守的规定。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 67, "type": "judge", "question": "超载作业不会影响叉车的稳定性，只要速度慢就可以。", "options": ["正确", "错误"], "answer": "错误", "score": 1 },
-    { "id": 68, "type": "judge", "question": "叉车在坡道上行驶时，上坡应倒退行驶，下坡应正向行驶。", "options": ["正确", "错误"], "answer": "错误", "score": 1 },
-    { "id": 69, "type": "judge", "question": "消防器材应定期检查，确保处于有效状态。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 70, "type": "judge", "question": "叉车严禁载人，但可以用货叉升高作业人员进行高空作业。", "options": ["正确", "错误"], "answer": "错误", "score": 1 },
-    { "id": 71, "type": "judge", "question": "液压系统泄漏会导致系统压力下降，影响叉车工作性能。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 72, "type": "judge", "question": "车辆速度变化时，驾驶员对车外环境的判别能力也会发生变化。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 73, "type": "judge", "question": "场车的全面检查应由使用单位的管理人员负责组织实施。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 74, "type": "judge", "question": "场车的日常维护保养和自行检查应由场车作业人员实施。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 75, "type": "judge", "question": "汽油机点火系统通常由分电器、点火线圈、火花塞等组成。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 76, "type": "judge", "question": "液力偶合器可以增大输出转矩。", "options": ["正确", "错误"], "answer": "错误", "score": 1 },
-    { "id": 77, "type": "judge", "question": "柴油的凝点是指柴油在规定温度下冷却至停止移动时的最高温度。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 78, "type": "judge", "question": "对用人单位管理人员违章指挥的行为，作业人员应当服从执行。", "options": ["正确", "错误"], "answer": "错误", "score": 1 },
-    { "id": 79, "type": "judge", "question": "道路交通标志分为主标志和辅助标志两大类。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 80, "type": "judge", "question": "叉车的稳定性包括纵向稳定性和横向稳定性。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 81, "type": "judge", "question": "蓄电池车辆的优点包括对环境污染小、噪音低。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 82, "type": "judge", "question": "车辆走合期一般应按规定减载20%～25%。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 83, "type": "judge", "question": "油泵试验的目的是检查油泵的转速、流量和压力。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 84, "type": "judge", "question": "场车传动系统可分为机械传动、液力机械传动和全液压传动。", "options": ["正确", "错误"], "answer": "正确", "score": 1 },
-    { "id": 85, "type": "judge", "question": "作业人员有权拒绝执行强令冒险作业的命令。", "options": ["正确", "错误"], "answer": "正确", "score": 1 }
+    {
+      "id": 56,
+      "type": "judge",
+      "question": "叉车货叉的叉根角不得大于93度，厚度磨损不得低于原尺寸的90%。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 57,
+      "type": "judge",
+      "question": "《场（厂）内专用机动车辆安全技术监察规程》规定，场车的铭牌、安全警示标志应当置于场车的显著位置。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 58,
+      "type": "judge",
+      "question": "特种设备办理使用登记后，即使未经定期检验或检验不合格，仍可继续使用。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 59,
+      "type": "judge",
+      "question": "使用未经检验合格的场（厂）内专用机动车辆属于一般违章。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 60,
+      "type": "judge",
+      "question": "前移式叉车是指带有外伸支腿，通过门架或滑架移动进行搬运的堆垛用起升车辆。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 61,
+      "type": "judge",
+      "question": "会车时要注意保持足够的安全横向间距，做到「礼让三先」。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 62,
+      "type": "judge",
+      "question": "停车应停在不妨碍交通的地点，司机离车时应拉紧驻车制动、切断电路、锁好车门。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 63,
+      "type": "judge",
+      "question": "充电时蓄电池内部产生大量气泡，电解液呈「沸腾」状态，表明可能已充足电。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 64,
+      "type": "judge",
+      "question": "出车前、行驶中、收车后的「三勤」是指勤清洁、勤检查、勤调整。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 65,
+      "type": "judge",
+      "question": "特种设备作业人员证对场（厂）内专用机动车辆司机不适用。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 66,
+      "type": "judge",
+      "question": "在作业场所安全标志中，蓝色表示指令和必须遵守的规定。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 67,
+      "type": "judge",
+      "question": "超载作业不会影响叉车的稳定性，只要速度慢就可以。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 68,
+      "type": "judge",
+      "question": "叉车在坡道上行驶时，上坡应倒退行驶，下坡应正向行驶。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 69,
+      "type": "judge",
+      "question": "消防器材应定期检查，确保处于有效状态。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 70,
+      "type": "judge",
+      "question": "叉车严禁载人，但可以用货叉升高作业人员进行高空作业。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 71,
+      "type": "judge",
+      "question": "液压系统泄漏会导致系统压力下降，影响叉车工作性能。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 72,
+      "type": "judge",
+      "question": "车辆速度变化时，驾驶员对车外环境的判别能力也会发生变化。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 73,
+      "type": "judge",
+      "question": "场车的全面检查应由使用单位的管理人员负责组织实施。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 74,
+      "type": "judge",
+      "question": "场车的日常维护保养和自行检查应由场车作业人员实施。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 75,
+      "type": "judge",
+      "question": "汽油机点火系统通常由分电器、点火线圈、火花塞等组成。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 76,
+      "type": "judge",
+      "question": "液力偶合器可以增大输出转矩。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 77,
+      "type": "judge",
+      "question": "柴油的凝点是指柴油在规定温度下冷却至停止移动时的最高温度。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 78,
+      "type": "judge",
+      "question": "对用人单位管理人员违章指挥的行为，作业人员应当服从执行。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "id": 79,
+      "type": "judge",
+      "question": "道路交通标志分为主标志和辅助标志两大类。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 80,
+      "type": "judge",
+      "question": "叉车的稳定性包括纵向稳定性和横向稳定性。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 81,
+      "type": "judge",
+      "question": "蓄电池车辆的优点包括对环境污染小、噪音低。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 82,
+      "type": "judge",
+      "question": "车辆走合期一般应按规定减载20%～25%。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 83,
+      "type": "judge",
+      "question": "油泵试验的目的是检查油泵的转速、流量和压力。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 84,
+      "type": "judge",
+      "question": "场车传动系统可分为机械传动、液力机械传动和全液压传动。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "id": 85,
+      "type": "judge",
+      "question": "作业人员有权拒绝执行强令冒险作业的命令。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": "A",
+      "score": 1
+    }
   ]
 }
